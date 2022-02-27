@@ -1,178 +1,529 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<svg width="1086pt" height="931pt" viewbox="0.00 0.00 1085.90 930.64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 926.6393)"> 
-    <title>perso</title>
-    <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-926.6393 1081.9021,-926.6393 1081.9021,4 -4,4"></polygon> <!-- Equilibre --> <g id="node1" class="node"> 
-    <title>Equilibre.</title>
-    <ellipse fill="none" stroke="#000000" cx="538.207" cy="-384.6207" rx="46.9477" ry="18"></ellipse> <text text-anchor="middle" x="538.207" y="-380.4207" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Equilibre</text> </g> <!-- Destin. --> <g id="node2" class="node"> 
-    <title>Destin.</title>
-    <ellipse fill="none" stroke="#000000" cx="641.6564" cy="-466.164" rx="38.8211" ry="18"></ellipse> <text text-anchor="middle" x="641.6564" y="-461.964" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Destin.</text> </g> <!-- Equilibre&#45;&gt;Destin. --> <g id="edge1" class="edge"> 
-    <title>Equilibre-&gt;Destin.</title>
-    <path fill="none" stroke="#000000" d="M559.1415,-401.1222C574.87,-413.5201 596.5705,-430.6254 613.77,-444.1828"></path> <polygon fill="#000000" stroke="#000000" points="611.7857,-447.0752 621.806,-450.517 616.1191,-441.5778 611.7857,-447.0752"></polygon> </g> <!-- Personnel. --> <g id="node3" class="node"> 
-    <title>Personnel.</title>
-    <ellipse fill="none" stroke="#000000" cx="512.4794" cy="-483.9599" rx="51.5639" ry="18"></ellipse> <text text-anchor="middle" x="512.4794" y="-479.7599" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Personnel.</text> </g> <!-- Equilibre&#45;&gt;Personnel. --> <g id="edge2" class="edge"> 
-    <title>Equilibre-&gt;Personnel.</title>
-    <path fill="none" stroke="#000000" d="M533.4881,-402.841C529.6439,-417.6843 524.1511,-438.8932 519.746,-455.902"></path> <polygon fill="#000000" stroke="#000000" points="516.2873,-455.2969 517.1683,-465.8551 523.0637,-457.052 516.2873,-455.2969"></polygon> </g> <!-- Corporel. --> <g id="node4" class="node"> 
-    <title>Corporel.</title>
-    <ellipse fill="none" stroke="#000000" cx="657.2082" cy="-353.2682" rx="47.5537" ry="18"></ellipse> <text text-anchor="middle" x="657.2082" y="-349.0682" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Corporel.</text> </g> <!-- Equilibre&#45;&gt;Corporel. --> <g id="edge3" class="edge"> 
-    <title>Equilibre-&gt;Corporel.</title>
-    <path fill="none" stroke="#000000" d="M577.1724,-374.3547C587.0351,-371.7563 597.7558,-368.9317 608.0503,-366.2195"></path> <polygon fill="#000000" stroke="#000000" points="608.9695,-369.5968 617.7478,-363.6646 607.1861,-362.8278 608.9695,-369.5968"></polygon> </g> <!-- Chance. --> <g id="node5" class="node"> 
-    <title>Chance.</title>
-    <ellipse fill="none" stroke="#000000" cx="790.7135" cy="-410.3568" rx="42.3163" ry="18"></ellipse> <text text-anchor="middle" x="790.7135" y="-406.1568" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Chance.</text> </g> <!-- Destin.&#45;&gt;Chance. --> <g id="edge4" class="edge"> 
-    <title>Destin.-&gt;Chance.</title>
-    <path fill="none" stroke="#000000" d="M671.8203,-454.8706C694.1248,-446.5198 724.7644,-435.0483 749.3529,-425.8423"></path> <polygon fill="#000000" stroke="#000000" points="750.6534,-429.0927 758.7913,-422.3085 748.1989,-422.5371 750.6534,-429.0927"></polygon> </g> <!-- Karma. --> <g id="node6" class="node"> 
-    <title>Karma.</title>
-    <ellipse fill="none" stroke="#000000" cx="806.7488" cy="-522.1361" rx="39.9462" ry="18"></ellipse> <text text-anchor="middle" x="806.7488" y="-517.9361" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Karma.</text> </g> <!-- Destin.&#45;&gt;Karma. --> <g id="edge5" class="edge"> 
-    <title>Destin.-&gt;Karma.</title>
-    <path fill="none" stroke="#000000" d="M673.0976,-476.8237C699.2082,-485.6761 736.5658,-498.3416 765.1503,-508.0327"></path> <polygon fill="#000000" stroke="#000000" points="764.268,-511.4292 774.8623,-511.3255 766.5156,-504.7999 764.268,-511.4292"></polygon> </g> <!-- Inspire. --> <g id="node7" class="node"> 
-    <title>Inspire.</title>
-    <ellipse fill="none" stroke="#000000" cx="679.5926" cy="-569.4122" rx="40.0279" ry="18"></ellipse> <text text-anchor="middle" x="679.5926" y="-565.2122" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Inspire.</text> </g> <!-- Personnel.&#45;&gt;Inspire. --> <g id="edge6" class="edge"> 
-    <title>Personnel.-&gt;Inspire.</title>
-    <path fill="none" stroke="#000000" d="M541.5883,-498.8446C570.0632,-513.405 613.4807,-535.6063 643.9956,-551.2099"></path> <polygon fill="#000000" stroke="#000000" points="642.5237,-554.3882 653.0207,-555.8248 645.7107,-548.1558 642.5237,-554.3882"></polygon> </g> <!-- Intérieur. --> <g id="node8" class="node"> 
-    <title>Intérieur.</title>
-    <ellipse fill="none" stroke="#000000" cx="538.0108" cy="-582.8664" rx="47.2168" ry="18"></ellipse> <text text-anchor="middle" x="538.0108" y="-578.6664" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Intérieur.</text> </g> <!-- Personnel.&#45;&gt;Intérieur. --> <g id="edge7" class="edge"> 
-    <title>Personnel.-&gt;Intérieur.</title>
-    <path fill="none" stroke="#000000" d="M517.1622,-502.1009C520.9771,-516.8795 526.4281,-537.996 530.7995,-554.9306"></path> <polygon fill="#000000" stroke="#000000" points="527.4692,-556.0326 533.3576,-564.8404 534.247,-554.283 527.4692,-556.0326"></polygon> </g> <!-- Expire. --> <g id="node9" class="node"> 
-    <title>Expire.</title>
-    <ellipse fill="none" stroke="#000000" cx="401.343" cy="-529.2206" rx="39.3855" ry="18"></ellipse> <text text-anchor="middle" x="401.343" y="-525.0206" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Expire.</text> </g> <!-- Personnel.&#45;&gt;Expire. --> <g id="edge8" class="edge"> 
-    <title>Personnel.-&gt;Expire.</title>
-    <path fill="none" stroke="#000000" d="M478.8332,-497.6625C466.6147,-502.6385 452.7122,-508.3003 440.0886,-513.4413"></path> <polygon fill="#000000" stroke="#000000" points="438.6749,-510.2379 430.7336,-517.2512 441.3152,-516.7209 438.6749,-510.2379"></polygon> </g> <!-- Extérieur. --> <g id="node10" class="node"> 
-    <title>Extérieur.</title>
-    <ellipse fill="none" stroke="#000000" cx="414.8466" cy="-392.4717" rx="50.0857" ry="18"></ellipse> <text text-anchor="middle" x="414.8466" y="-388.2717" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Extérieur.</text> </g> <!-- Personnel.&#45;&gt;Extérieur. --> <g id="edge9" class="edge"> 
-    <title>Personnel.-&gt;Extérieur.</title>
-    <path fill="none" stroke="#000000" d="M494.1154,-466.7517C478.8827,-452.4776 457.0633,-432.0315 440.1714,-416.2027"></path> <polygon fill="#000000" stroke="#000000" points="442.4886,-413.5775 432.7984,-409.2937 437.7021,-418.6854 442.4886,-413.5775"></polygon> </g> <!-- Être. --> <g id="node33" class="node"> 
-    <title>Être.</title>
-    <ellipse fill="none" stroke="#000000" cx="541.3268" cy="-266.8078" rx="29.0318" ry="18"></ellipse> <text text-anchor="middle" x="541.3268" y="-262.6078" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Être.</text> </g> <!-- Corporel.&#45;&gt;Être. --> <g id="edge32" class="edge"> 
-    <title>Corporel.-&gt;Être.</title>
-    <path fill="none" stroke="#000000" d="M635.4118,-337.0056C616.3659,-322.7953 588.6444,-302.112 568.2235,-286.8757"></path> <polygon fill="#000000" stroke="#000000" points="570.0732,-283.889 559.9652,-280.7141 565.8871,-289.4995 570.0732,-283.889"></polygon> </g> <!-- Faire. --> <g id="node34" class="node"> 
-    <title>Faire.</title>
-    <ellipse fill="none" stroke="#000000" cx="806.588" cy="-284.7398" rx="33.0832" ry="18"></ellipse> <text text-anchor="middle" x="806.588" y="-280.5398" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Faire.</text> </g> <!-- Corporel.&#45;&gt;Faire. --> <g id="edge33" class="edge"> 
-    <title>Corporel.-&gt;Faire.</title>
-    <path fill="none" stroke="#000000" d="M687.7979,-339.2351C712.1695,-328.0546 746.3011,-312.3966 771.7279,-300.732"></path> <polygon fill="#000000" stroke="#000000" points="773.3784,-303.8256 781.0082,-296.4746 770.4596,-297.4631 773.3784,-303.8256"></polygon> </g> <!-- Perception. --> <g id="node11" class="node"> 
-    <title>Perception.</title>
-    <ellipse fill="none" stroke="#000000" cx="839.8863" cy="-663.4965" rx="54.9946" ry="18"></ellipse> <text text-anchor="middle" x="839.8863" y="-659.2965" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Perception.</text> </g> <!-- Inspire.&#45;&gt;Perception. --> <g id="edge10" class="edge"> 
-    <title>Inspire.-&gt;Perception.</title>
-    <path fill="none" stroke="#000000" d="M704.2872,-583.9067C730.9487,-599.5556 773.6683,-624.6299 804.0283,-642.4497"></path> <polygon fill="#000000" stroke="#000000" points="802.6263,-645.6851 813.0222,-647.7286 806.1697,-639.6482 802.6263,-645.6851"></polygon> </g> <!-- Empathie. --> <g id="node12" class="node"> 
-    <title>Empathie.</title>
-    <ellipse fill="none" stroke="#000000" cx="712.2451" cy="-719.5581" rx="50.4201" ry="18"></ellipse> <text text-anchor="middle" x="712.2451" y="-715.3581" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Empathie.</text> </g> <!-- Inspire.&#45;&gt;Empathie. --> <g id="edge11" class="edge"> 
-    <title>Inspire.-&gt;Empathie.</title>
-    <path fill="none" stroke="#000000" d="M683.5313,-587.5233C689.1453,-613.3383 699.5001,-660.9528 706.1204,-691.395"></path> <polygon fill="#000000" stroke="#000000" points="702.7473,-692.355 708.2925,-701.3828 709.5874,-690.8674 702.7473,-692.355"></polygon> </g> <!-- Intuition. --> <g id="node13" class="node"> 
-    <title>Intuition.</title>
-    <ellipse fill="none" stroke="#000000" cx="610.621" cy="-670.6755" rx="46.9292" ry="18"></ellipse> <text text-anchor="middle" x="610.621" y="-666.4755" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Intuition.</text> </g> <!-- Inspire.&#45;&gt;Intuition. --> <g id="edge12" class="edge"> 
-    <title>Inspire.-&gt;Intuition.</title>
-    <path fill="none" stroke="#000000" d="M667.5787,-587.0509C656.6996,-603.0234 640.5358,-626.7549 628.2035,-644.861"></path> <polygon fill="#000000" stroke="#000000" points="625.2339,-643.0036 622.4972,-653.2389 631.0194,-646.9442 625.2339,-643.0036"></polygon> </g> <!-- Intellect. --> <g id="node17" class="node"> 
-    <title>Intellect.</title>
-    <ellipse fill="none" stroke="#000000" cx="514.8738" cy="-746.8762" rx="45.1778" ry="18"></ellipse> <text text-anchor="middle" x="514.8738" y="-742.6762" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Intellect.</text> </g> <!-- Intérieur.&#45;&gt;Intellect. --> <g id="edge16" class="edge"> 
-    <title>Intérieur.-&gt;Intellect.</title>
-    <path fill="none" stroke="#000000" d="M535.4463,-601.0449C531.4332,-629.4923 523.637,-684.7573 518.8791,-718.484"></path> <polygon fill="#000000" stroke="#000000" points="515.3811,-718.2253 517.4498,-728.6162 522.3124,-719.2032 515.3811,-718.2253"></polygon> </g> <!-- Contrôle. --> <g id="node18" class="node"> 
-    <title>Contrôle.</title>
-    <ellipse fill="none" stroke="#000000" cx="421.3976" cy="-657.2197" rx="48.0916" ry="18"></ellipse> <text text-anchor="middle" x="421.3976" y="-653.0197" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Contrôle.</text> </g> <!-- Intérieur.&#45;&gt;Contrôle. --> <g id="edge17" class="edge"> 
-    <title>Intérieur.-&gt;Contrôle.</title>
-    <path fill="none" stroke="#000000" d="M513.5648,-598.4533C496.3835,-609.4082 473.1991,-624.1907 454.3818,-636.1887"></path> <polygon fill="#000000" stroke="#000000" points="452.3615,-633.3259 445.8113,-641.6533 456.1249,-639.2282 452.3615,-633.3259"></polygon> </g> <!-- Santé Mentale. --> <g id="node19" class="node"> 
-    <title>Santé Mentale.</title>
-    <ellipse fill="none" stroke="#000000" cx="293.856" cy="-751.9739" rx="69.7487" ry="18"></ellipse> <text text-anchor="middle" x="293.856" y="-747.7739" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Santé Mentale.</text> </g> <!-- Intérieur.&#45;&gt;Santé Mentale. --> <g id="edge18" class="edge"> 
-    <title>Intérieur.-&gt;Santé Mentale.</title>
-    <path fill="none" stroke="#000000" d="M523.2113,-600.0368C509.875,-615.3293 489.574,-638.1673 471.0433,-657.2236 464.8179,-663.6256 463.8079,-665.9564 456.4955,-671.0818 420.4169,-696.3694 375.2783,-718.1483 341.7138,-732.7167"></path> <polygon fill="#000000" stroke="#000000" points="339.9491,-729.6648 332.1323,-736.8166 342.7029,-736.1004 339.9491,-729.6648"></polygon> </g> <!-- Volonté. --> <g id="node22" class="node"> 
-    <title>Volonté.</title>
-    <ellipse fill="none" stroke="#000000" cx="97.201" cy="-895.8475" rx="45.455" ry="18"></ellipse> <text text-anchor="middle" x="97.201" y="-891.6475" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Volonté.</text> </g> <!-- Expire.&#45;&gt;Volonté. --> <g id="edge21" class="edge"> 
-    <title>Expire.-&gt;Volonté.</title>
-    <path fill="none" stroke="#000000" d="M387.0815,-546.4121C337.9901,-605.5892 175.8391,-801.0535 117.9586,-870.8253"></path> <polygon fill="#000000" stroke="#000000" points="115.1226,-868.7622 111.4316,-878.6933 120.5101,-873.2315 115.1226,-868.7622"></polygon> </g> <!-- Hargne. --> <g id="node23" class="node"> 
-    <title>Hargne.</title>
-    <ellipse fill="none" stroke="#000000" cx="48.7486" cy="-696.6868" rx="41.735" ry="18"></ellipse> <text text-anchor="middle" x="48.7486" y="-692.4868" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Hargne.</text> </g> <!-- Expire.&#45;&gt;Hargne. --> <g id="edge22" class="edge"> 
-    <title>Expire.-&gt;Hargne.</title>
-    <path fill="none" stroke="#000000" d="M365.9032,-537.1366C329.2676,-546.0095 270.9199,-562.0901 223.6482,-584.0997 168.9539,-609.5652 111.157,-649.7443 77.602,-674.5862"></path> <polygon fill="#000000" stroke="#000000" points="75.1239,-672.0686 69.2067,-680.857 79.3129,-677.6768 75.1239,-672.0686"></polygon> </g> <!-- Discrétion. --> <g id="node24" class="node"> 
-    <title>Discrétion.</title>
-    <ellipse fill="none" stroke="#000000" cx="263.0523" cy="-598.0116" rx="54.1789" ry="18"></ellipse> <text text-anchor="middle" x="263.0523" y="-593.8116" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Discrétion.</text> </g> <!-- Expire.&#45;&gt;Discrétion. --> <g id="edge23" class="edge"> 
-    <title>Expire.-&gt;Discrétion.</title>
-    <path fill="none" stroke="#000000" d="M374.6792,-542.4842C354.2601,-552.6414 325.7714,-566.8128 302.6856,-578.2966"></path> <polygon fill="#000000" stroke="#000000" points="300.8809,-575.2851 293.4863,-582.8726 303.9986,-581.5525 300.8809,-575.2851"></polygon> </g> <!-- Sociabilité. --> <g id="node25" class="node"> 
-    <title>Sociabilité.</title>
-    <ellipse fill="none" stroke="#000000" cx="273.2532" cy="-453.0741" rx="55.3398" ry="18"></ellipse> <text text-anchor="middle" x="273.2532" y="-448.8741" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Sociabilité.</text> </g> <!-- Extérieur.&#45;&gt;Sociabilité. --> <g id="edge24" class="edge"> 
-    <title>Extérieur.-&gt;Sociabilité.</title>
-    <path fill="none" stroke="#000000" d="M382.3622,-406.3751C362.8205,-414.739 337.7059,-425.4882 316.499,-434.5648"></path> <polygon fill="#000000" stroke="#000000" points="314.8805,-431.4504 307.0643,-438.6029 317.6348,-437.8857 314.8805,-431.4504"></polygon> </g> <!-- Connaissance. --> <g id="node26" class="node"> 
-    <title>Connaissance.</title>
-    <ellipse fill="none" stroke="#000000" cx="276.0797" cy="-306.345" rx="66.5931" ry="18"></ellipse> <text text-anchor="middle" x="276.0797" y="-302.145" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Connaissance.</text> </g> <!-- Extérieur.&#45;&gt;Connaissance. --> <g id="edge25" class="edge"> 
-    <title>Extérieur.-&gt;Connaissance.</title>
-    <path fill="none" stroke="#000000" d="M389.717,-376.8748C367.8749,-363.3184 335.9909,-343.5293 311.5512,-328.3606"></path> <polygon fill="#000000" stroke="#000000" points="313.2586,-325.301 302.9163,-323.0013 309.5671,-331.2486 313.2586,-325.301"></polygon> </g> <!-- Charisme. --> <g id="node27" class="node"> 
-    <title>Charisme.</title>
-    <ellipse fill="none" stroke="#000000" cx="413.6579" cy="-246.341" rx="50.4181" ry="18"></ellipse> <text text-anchor="middle" x="413.6579" y="-242.141" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Charisme.</text> </g> <!-- Extérieur.&#45;&gt;Charisme. --> <g id="edge26" class="edge"> 
-    <title>Extérieur.-&gt;Charisme.</title>
-    <path fill="none" stroke="#000000" d="M414.6985,-374.2596C414.4956,-349.3199 414.1292,-304.2867 413.8898,-274.8542"></path> <polygon fill="#000000" stroke="#000000" points="417.3892,-274.7538 413.8079,-264.7826 410.3894,-274.8108 417.3892,-274.7538"></polygon> </g> <!-- Vue. --> <g id="node14" class="node"> 
-    <title>Vue.</title>
-    <ellipse fill="none" stroke="#000000" cx="1037.6727" cy="-636.0678" rx="29.5746" ry="18"></ellipse> <text text-anchor="middle" x="1037.6727" y="-631.8678" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Vue.</text> </g> <!-- Perception.&#45;&gt;Vue. --> <g id="edge13" class="edge"> 
-    <title>Perception.-&gt;Vue.</title>
-    <path fill="none" stroke="#000000" d="M890.5644,-656.4686C924.1902,-651.8054 967.6626,-645.7767 998.6101,-641.4849"></path> <polygon fill="#000000" stroke="#000000" points="999.1684,-644.9411 1008.5928,-640.1005 998.2068,-638.0074 999.1684,-644.9411"></polygon> </g> <!-- Ouïe. --> <g id="node15" class="node"> 
-    <title>Ouïe.</title>
-    <ellipse fill="none" stroke="#000000" cx="1021.7051" cy="-864.4403" rx="38.2411" ry="18"></ellipse> <text text-anchor="middle" x="1021.7051" y="-860.2403" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Ouïe.</text> </g> <!-- Perception.&#45;&gt;Ouïe. --> <g id="edge14" class="edge"> 
-    <title>Perception.-&gt;Ouïe.</title>
-    <path fill="none" stroke="#000000" d="M855.7035,-680.9775C888.1834,-716.8739 962.4624,-798.966 999.6475,-840.0625"></path> <polygon fill="#000000" stroke="#000000" points="997.2618,-842.6425 1006.5665,-847.7093 1002.4524,-837.9459 997.2618,-842.6425"></polygon> </g> <!-- Odorat. --> <g id="node16" class="node"> 
-    <title>Odorat.</title>
-    <ellipse fill="none" stroke="#000000" cx="799.0129" cy="-888.3348" rx="40.0298" ry="18"></ellipse> <text text-anchor="middle" x="799.0129" y="-884.1348" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Odorat.</text> </g> <!-- Perception.&#45;&gt;Odorat. --> <g id="edge15" class="edge"> 
-    <title>Perception.-&gt;Odorat.</title>
-    <path fill="none" stroke="#000000" d="M836.6106,-681.5159C829.5104,-720.5727 812.6575,-813.2779 804.1355,-860.1561"></path> <polygon fill="#000000" stroke="#000000" points="800.6494,-859.7648 802.3043,-870.2296 807.5365,-861.0168 800.6494,-859.7648"></polygon> </g> <!-- Langage. --> <g id="node20" class="node"> 
-    <title>Langage.</title>
-    <ellipse fill="none" stroke="#000000" cx="609.3817" cy="-896.9455" rx="46.8923" ry="18"></ellipse> <text text-anchor="middle" x="609.3817" y="-892.7455" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Langage.</text> </g> <!-- Intellect.&#45;&gt;Langage. --> <g id="edge19" class="edge"> 
-    <title>Intellect.-&gt;Langage.</title>
-    <path fill="none" stroke="#000000" d="M525.9,-764.3847C542.3152,-790.4505 573.307,-839.6625 592.5627,-870.2387"></path> <polygon fill="#000000" stroke="#000000" points="589.8421,-872.4866 598.1327,-879.0833 595.7654,-868.7563 589.8421,-872.4866"></polygon> </g> <!-- Logique. --> <g id="node21" class="node"> 
-    <title>Logique.</title>
-    <ellipse fill="none" stroke="#000000" cx="396.5917" cy="-904.6393" rx="45.7693" ry="18"></ellipse> <text text-anchor="middle" x="396.5917" y="-900.4393" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Logique.</text> </g> <!-- Intellect.&#45;&gt;Logique. --> <g id="edge20" class="edge"> 
-    <title>Intellect.-&gt;Logique.</title>
-    <path fill="none" stroke="#000000" d="M501.7636,-764.3624C480.8925,-792.2001 440.0051,-846.7351 415.8184,-878.995"></path> <polygon fill="#000000" stroke="#000000" points="412.959,-876.9742 409.7606,-887.0748 418.5597,-881.1734 412.959,-876.9742"></polygon> </g> <!-- Technique. --> <g id="node28" class="node"> 
-    <title>Technique.</title>
-    <ellipse fill="none" stroke="#000000" cx="54.6837" cy="-532.1642" rx="54.4166" ry="18"></ellipse> <text text-anchor="middle" x="54.6837" y="-527.9642" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Technique.</text> </g> <!-- Connaissance.&#45;&gt;Technique. --> <g id="edge27" class="edge"> 
-    <title>Connaissance.-&gt;Technique.</title>
-    <path fill="none" stroke="#000000" d="M258.7071,-324.0646C219.4064,-364.1505 123.609,-461.8619 78.6831,-507.6853"></path> <polygon fill="#000000" stroke="#000000" points="76.1731,-505.246 71.6715,-514.837 81.1716,-510.1466 76.1731,-505.246"></polygon> </g> <!-- Histoire. --> <g id="node29" class="node"> 
-    <title>Histoire.</title>
-    <ellipse fill="none" stroke="#000000" cx="62.8814" cy="-396.9645" rx="44.6174" ry="18"></ellipse> <text text-anchor="middle" x="62.8814" y="-392.7645" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Histoire.</text> </g> <!-- Connaissance.&#45;&gt;Histoire. --> <g id="edge28" class="edge"> 
-    <title>Connaissance.-&gt;Histoire.</title>
-    <path fill="none" stroke="#000000" d="M239.9135,-321.7173C202.0195,-337.8241 142.6322,-363.0666 103.2387,-379.8107"></path> <polygon fill="#000000" stroke="#000000" points="101.5135,-376.7409 93.6795,-383.8738 104.2518,-383.1831 101.5135,-376.7409"></polygon> </g> <!-- Géographie. --> <g id="node30" class="node"> 
-    <title>Géographie.</title>
-    <ellipse fill="none" stroke="#000000" cx="59.16" cy="-254.2277" rx="59.3204" ry="18"></ellipse> <text text-anchor="middle" x="59.16" y="-250.0277" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Géographie.</text> </g> <!-- Connaissance.&#45;&gt;Géographie. --> <g id="edge29" class="edge"> 
-    <title>Connaissance.-&gt;Géographie.</title>
-    <path fill="none" stroke="#000000" d="M226.3139,-294.3882C193.2991,-286.456 149.901,-276.0292 115.5993,-267.7878"></path> <polygon fill="#000000" stroke="#000000" points="116.2669,-264.3487 105.7259,-265.4156 114.6315,-271.155 116.2669,-264.3487"></polygon> </g> <!-- Politique. --> <g id="node31" class="node"> 
-    <title>Politique.</title>
-    <ellipse fill="none" stroke="#000000" cx="65.2872" cy="-52.0313" rx="48.1523" ry="18"></ellipse> <text text-anchor="middle" x="65.2872" y="-47.8313" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Politique.</text> </g> <!-- Connaissance.&#45;&gt;Politique. --> <g id="edge30" class="edge"> 
-    <title>Connaissance.-&gt;Politique.</title>
-    <path fill="none" stroke="#000000" d="M261.2572,-288.4621C224.5061,-244.1233 129.0818,-128.9972 86.4274,-77.5361"></path> <polygon fill="#000000" stroke="#000000" points="88.8898,-75.0223 79.8135,-69.5567 83.5004,-79.4894 88.8898,-75.0223"></polygon> </g> <!-- Langues. --> <g id="node32" class="node"> 
-    <title>Langues.</title>
-    <ellipse fill="none" stroke="#000000" cx="267.4985" cy="-113.4535" rx="46.3298" ry="18"></ellipse> <text text-anchor="middle" x="267.4985" y="-109.2535" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Langues.</text> </g> <!-- Connaissance.&#45;&gt;Langues. --> <g id="edge31" class="edge"> 
-    <title>Connaissance.-&gt;Langues.</title>
-    <path fill="none" stroke="#000000" d="M275.2724,-288.1982C273.7743,-254.5222 270.5538,-182.1326 268.7638,-141.8947"></path> <polygon fill="#000000" stroke="#000000" points="272.251,-141.5271 268.3099,-131.6926 265.2579,-141.8383 272.251,-141.5271"></polygon> </g> <!-- Force. --> <g id="node35" class="node"> 
-    <title>Force.</title>
-    <ellipse fill="none" stroke="#000000" cx="389.3396" cy="-22.3196" rx="35.3716" ry="18"></ellipse> <text text-anchor="middle" x="389.3396" y="-18.1196" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Force.</text> </g> <!-- Être.&#45;&gt;Force. --> <g id="edge34" class="edge"> 
-    <title>Être.-&gt;Force.</title>
-    <path fill="none" stroke="#000000" d="M530.6393,-249.6159C504.3683,-207.356 436.5156,-98.2074 405.3828,-48.1268"></path> <polygon fill="#000000" stroke="#000000" points="408.2673,-46.1374 400.0152,-39.4925 402.3223,-49.8331 408.2673,-46.1374"></polygon> </g> <!-- Souplesse. --> <g id="node36" class="node"> 
-    <title>Souplesse.</title>
-    <ellipse fill="none" stroke="#000000" cx="503.836" cy="-80.7974" rx="52.1456" ry="18"></ellipse> <text text-anchor="middle" x="503.836" y="-76.5974" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Souplesse.</text> </g> <!-- Être.&#45;&gt;Souplesse. --> <g id="edge35" class="edge"> 
-    <title>Être.-&gt;Souplesse.</title>
-    <path fill="none" stroke="#000000" d="M537.6637,-248.6337C531.0955,-216.0452 517.2747,-147.4737 509.4848,-108.8243"></path> <polygon fill="#000000" stroke="#000000" points="512.8655,-107.8827 507.4587,-98.7714 506.0035,-109.2658 512.8655,-107.8827"></polygon> </g> <!-- Constitution. --> <g id="node37" class="node"> 
-    <title>Constitution.</title>
-    <ellipse fill="none" stroke="#000000" cx="590.2992" cy="-116.2431" rx="61.4152" ry="18"></ellipse> <text text-anchor="middle" x="590.2992" y="-112.0431" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Constitution.</text> </g> <!-- Être.&#45;&gt;Constitution. --> <g id="edge36" class="edge"> 
-    <title>Être.-&gt;Constitution.</title>
-    <path fill="none" stroke="#000000" d="M547.1368,-248.9448C555.5593,-223.0503 571.2397,-174.8412 581.203,-144.2092"></path> <polygon fill="#000000" stroke="#000000" points="584.5792,-145.1446 584.3439,-134.5524 577.9224,-142.9794 584.5792,-145.1446"></polygon> </g> <!-- Réflexe. --> <g id="node38" class="node"> 
-    <title>Réflexe.</title>
-    <ellipse fill="none" stroke="#000000" cx="682.09" cy="-18" rx="44.2873" ry="18"></ellipse> <text text-anchor="middle" x="682.09" y="-13.8" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Réflexe.</text> </g> <!-- Être.&#45;&gt;Réflexe. --> <g id="edge37" class="edge"> 
-    <title>Être.-&gt;Réflexe.</title>
-    <path fill="none" stroke="#000000" d="M556.1489,-250.9332C579.8215,-224.7903 626.2264,-170.1882 653.1061,-116.3101 664.3352,-93.8022 672.0007,-66.1758 676.6142,-45.9464"></path> <polygon fill="#000000" stroke="#000000" points="680.0487,-46.6234 678.7513,-36.1083 673.2082,-45.1374 680.0487,-46.6234"></polygon> </g> <!-- Endurance. --> <g id="node39" class="node"> 
-    <title>Endurance.</title>
-    <ellipse fill="none" stroke="#000000" cx="674.6895" cy="-226.7578" rx="54.9791" ry="18"></ellipse> <text text-anchor="middle" x="674.6895" y="-222.5578" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Endurance.</text> </g> <!-- Être.&#45;&gt;Endurance. --> <g id="edge38" class="edge"> 
-    <title>Être.-&gt;Endurance.</title>
-    <path fill="none" stroke="#000000" d="M567.6749,-258.8952C583.9096,-254.0198 605.2536,-247.61 624.6058,-241.7984"></path> <polygon fill="#000000" stroke="#000000" points="625.6388,-245.1427 634.2096,-238.9143 623.6254,-238.4385 625.6388,-245.1427"></polygon> </g> <!-- Combat Rapproché. --> <g id="node40" class="node"> 
-    <title>Combat Rapproché.</title>
-    <ellipse fill="none" stroke="#000000" cx="818.2971" cy="-92.5751" rx="88.8782" ry="18"></ellipse> <text text-anchor="middle" x="818.2971" y="-88.3751" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Combat Rapproché.</text> </g> <!-- Faire.&#45;&gt;Combat Rapproché. --> <g id="edge39" class="edge"> 
-    <title>Faire.-&gt;Combat Rapproché.</title>
-    <path fill="none" stroke="#000000" d="M807.6896,-266.6614C809.7338,-233.1123 814.1281,-160.9955 816.5707,-120.9092"></path> <polygon fill="#000000" stroke="#000000" points="820.0752,-120.9399 817.19,-110.7455 813.0881,-120.5141 820.0752,-120.9399"></polygon> </g> <!-- Tir Visé. --> <g id="node41" class="node"> 
-    <title>Tir Visé.</title>
-    <ellipse fill="none" stroke="#000000" cx="1019.3026" cy="-50.3166" rx="46.0511" ry="18"></ellipse> <text text-anchor="middle" x="1019.3026" y="-46.1166" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Tir Visé.</text> </g> <!-- Faire.&#45;&gt;Tir Visé. --> <g id="edge40" class="edge"> 
-    <title>Faire.-&gt;Tir Visé.</title>
-    <path fill="none" stroke="#000000" d="M821.5457,-268.2556C858.3632,-227.6808 953.5339,-122.7974 997.0256,-74.8671"></path> <polygon fill="#000000" stroke="#000000" points="999.6618,-77.1703 1003.7897,-67.4127 994.4779,-72.4664 999.6618,-77.1703"></polygon> </g> <!-- Dextérité. --> <g id="node42" class="node"> 
-    <title>Dextérité.</title>
-    <ellipse fill="none" stroke="#000000" cx="1014.7114" cy="-239.4781" rx="50.9153" ry="18"></ellipse> <text text-anchor="middle" x="1014.7114" y="-235.2781" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Dextérité.</text> </g> <!-- Faire.&#45;&gt;Dextérité. --> <g id="edge41" class="edge"> 
-    <title>Faire.-&gt;Dextérité.</title>
-    <path fill="none" stroke="#000000" d="M837.7462,-277.9637C870.3974,-270.8628 922.292,-259.577 961.4597,-251.059"></path> <polygon fill="#000000" stroke="#000000" points="962.35,-254.4473 971.3778,-248.9021 960.8624,-247.6072 962.35,-254.4473"></polygon> </g> <!-- Athlétisme. --> <g id="node43" class="node"> 
-    <title>Athlétisme.</title>
-    <ellipse fill="none" stroke="#000000" cx="1021.4103" cy="-369.247" rx="56.4835" ry="18"></ellipse> <text text-anchor="middle" x="1021.4103" y="-365.047" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Athlétisme.</text> </g> <!-- Faire.&#45;&gt;Athlétisme. --> <g id="edge42" class="edge"> 
-    <title>Faire.-&gt;Athlétisme.</title>
-    <path fill="none" stroke="#000000" d="M833.7954,-295.4427C869.5879,-309.5228 932.986,-334.4624 976.0811,-351.4153"></path> <polygon fill="#000000" stroke="#000000" points="974.9027,-354.7127 985.4898,-355.1165 977.4652,-348.1986 974.9027,-354.7127"></polygon> </g> <!-- Agilité. --> <g id="node44" class="node"> 
-    <title>Agilité.</title>
-    <ellipse fill="none" stroke="#000000" cx="1008.9578" cy="-488.0086" rx="40.8747" ry="18"></ellipse> <text text-anchor="middle" x="1008.9578" y="-483.8086" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Agilité.</text> </g> <!-- Faire.&#45;&gt;Agilité. --> <g id="edge43" class="edge"> 
-    <title>Faire.-&gt;Agilité.</title>
-    <path fill="none" stroke="#000000" d="M822.4677,-300.69C857.8179,-336.1972 943.1752,-421.9337 985.0205,-463.9649"></path> <polygon fill="#000000" stroke="#000000" points="982.7699,-466.6651 992.3057,-471.2825 987.7306,-461.7263 982.7699,-466.6651"></polygon> </g> </g> </svg>
+<svg width="1099pt" height="1105pt" viewBox="0.00 0.00 1098.71 1105.41" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 1101.4146)">
+<title>perso</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-1101.4146 1094.7053,-1101.4146 1094.7053,4 -4,4"/>
+<!-- Equilibre. -->
+<g id="node1" class="node">
+<title>Equilibre.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="535.9132" cy="-442.927" rx="49.2764" ry="49.2764"/>
+<text text-anchor="middle" x="535.9132" y="-438.727" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Equilibre.</text>
+</g>
+<!-- Destin. -->
+<g id="node2" class="node">
+<title>Destin.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="662.0902" cy="-535.3671" rx="38.8211" ry="38.8211"/>
+<text text-anchor="middle" x="662.0902" y="-531.1671" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Destin.</text>
+</g>
+<!-- Equilibre.&#45;&gt;Destin. -->
+<g id="edge1" class="edge">
+<title>Equilibre.-&gt;Destin.</title>
+<path fill="none" stroke="#000000" d="M575.8364,-472.1756C590.6835,-483.0529 607.5182,-495.3865 622.349,-506.2518"/>
+<polygon fill="#000000" stroke="#000000" points="620.6841,-509.3708 630.8193,-512.4573 624.821,-503.724 620.6841,-509.3708"/>
+</g>
+<!-- Personnel. -->
+<g id="node3" class="node">
+<title>Personnel.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="530.6559" cy="-572.3912" rx="51.5639" ry="51.5639"/>
+<text text-anchor="middle" x="530.6559" y="-568.1912" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Personnel.</text>
+</g>
+<!-- Equilibre.&#45;&gt;Personnel. -->
+<g id="edge2" class="edge">
+<title>Equilibre.-&gt;Personnel.</title>
+<path fill="none" stroke="#000000" d="M533.8956,-492.611C533.6582,-498.4583 533.4137,-504.4789 533.1705,-510.4675"/>
+<polygon fill="#000000" stroke="#000000" points="529.6727,-510.3454 532.764,-520.4792 536.6669,-510.6294 529.6727,-510.3454"/>
+</g>
+<!-- Corporel. -->
+<g id="node4" class="node">
+<title>Corporel.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="678.5565" cy="-409.5714" rx="47.5537" ry="47.5537"/>
+<text text-anchor="middle" x="678.5565" y="-405.3714" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Corporel.</text>
+</g>
+<!-- Equilibre.&#45;&gt;Corporel. -->
+<g id="edge3" class="edge">
+<title>Equilibre.-&gt;Corporel.</title>
+<path fill="none" stroke="#000000" d="M584.2057,-431.6343C596.323,-428.8008 609.4338,-425.735 621.9173,-422.8159"/>
+<polygon fill="#000000" stroke="#000000" points="622.823,-426.1986 631.7634,-420.5135 621.2291,-419.3825 622.823,-426.1986"/>
+</g>
+<!-- Chance. -->
+<g id="node5" class="node">
+<title>Chance.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="817.0177" cy="-477.4959" rx="42.3163" ry="42.3163"/>
+<text text-anchor="middle" x="817.0177" y="-473.2959" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Chance.</text>
+</g>
+<!-- Destin.&#45;&gt;Chance. -->
+<g id="edge4" class="edge">
+<title>Destin.-&gt;Chance.</title>
+<path fill="none" stroke="#000000" d="M698.4138,-521.7988C719.0738,-514.0816 745.2339,-504.3098 767.7257,-495.9083"/>
+<polygon fill="#000000" stroke="#000000" points="768.9706,-499.1795 777.1137,-492.4015 766.5211,-492.6221 768.9706,-499.1795"/>
+</g>
+<!-- Karma. -->
+<g id="node6" class="node">
+<title>Karma.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="819.303" cy="-605.9282" rx="39.9462" ry="39.9462"/>
+<text text-anchor="middle" x="819.303" y="-601.7282" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Karma.</text>
+</g>
+<!-- Destin.&#45;&gt;Karma. -->
+<g id="edge5" class="edge">
+<title>Destin.-&gt;Karma.</title>
+<path fill="none" stroke="#000000" d="M697.3718,-551.2023C719.9096,-561.3179 749.3577,-574.535 773.6675,-585.4458"/>
+<polygon fill="#000000" stroke="#000000" points="772.4922,-588.7546 783.0486,-589.6563 775.3585,-582.3684 772.4922,-588.7546"/>
+</g>
+<!-- Inspire. -->
+<g id="node7" class="node">
+<title>Inspire.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="672.7739" cy="-660.7746" rx="40.0279" ry="40.0279"/>
+<text text-anchor="middle" x="672.7739" y="-656.5746" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Inspire.</text>
+</g>
+<!-- Personnel.&#45;&gt;Inspire. -->
+<g id="edge6" class="edge">
+<title>Personnel.-&gt;Inspire.</title>
+<path fill="none" stroke="#000000" d="M574.4556,-599.6303C591.9575,-610.5147 612.0597,-623.0163 629.508,-633.8675"/>
+<polygon fill="#000000" stroke="#000000" points="628.0224,-637.0652 638.3626,-639.3742 631.7192,-631.1209 628.0224,-637.0652"/>
+</g>
+<!-- Intérieur. -->
+<g id="node8" class="node">
+<title>Intérieur.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="540.688" cy="-709.1744" rx="47.2168" ry="47.2168"/>
+<text text-anchor="middle" x="540.688" y="-704.9744" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Intérieur.</text>
+</g>
+<!-- Personnel.&#45;&gt;Intérieur. -->
+<g id="edge7" class="edge">
+<title>Personnel.-&gt;Intérieur.</title>
+<path fill="none" stroke="#000000" d="M534.4486,-624.1031C535.1098,-633.1177 535.8011,-642.544 536.4728,-651.7022"/>
+<polygon fill="#000000" stroke="#000000" points="532.998,-652.1747 537.2202,-661.8919 539.9792,-651.6626 532.998,-652.1747"/>
+</g>
+<!-- Expire. -->
+<g id="node9" class="node">
+<title>Expire.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="405.7474" cy="-622.2145" rx="39.3855" ry="39.3855"/>
+<text text-anchor="middle" x="405.7474" y="-618.0145" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Expire.</text>
+</g>
+<!-- Personnel.&#45;&gt;Expire. -->
+<g id="edge8" class="edge">
+<title>Personnel.-&gt;Expire.</title>
+<path fill="none" stroke="#000000" d="M482.7202,-591.5117C472.6058,-595.5462 461.9535,-599.7951 451.9061,-603.8028"/>
+<polygon fill="#000000" stroke="#000000" points="450.4874,-600.6005 442.4958,-607.5564 453.0809,-607.1023 450.4874,-600.6005"/>
+</g>
+<!-- Extérieur. -->
+<g id="node10" class="node">
+<title>Extérieur.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="406.9146" cy="-472.0536" rx="50.0857" ry="50.0857"/>
+<text text-anchor="middle" x="406.9146" y="-467.8536" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Extérieur.</text>
+</g>
+<!-- Personnel.&#45;&gt;Extérieur. -->
+<g id="edge9" class="edge">
+<title>Personnel.-&gt;Extérieur.</title>
+<path fill="none" stroke="#000000" d="M490.4807,-539.8145C478.7871,-530.3325 465.9096,-519.8906 453.8393,-510.1033"/>
+<polygon fill="#000000" stroke="#000000" points="456.0164,-507.3625 446.0446,-503.7828 451.6075,-512.7997 456.0164,-507.3625"/>
+</g>
+<!-- Être. -->
+<g id="node33" class="node">
+<title>Être.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="567.8106" cy="-322.9907" rx="29.0318" ry="29.0318"/>
+<text text-anchor="middle" x="567.8106" y="-318.7907" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Être.</text>
+</g>
+<!-- Corporel.&#45;&gt;Être. -->
+<g id="edge32" class="edge">
+<title>Corporel.-&gt;Être.</title>
+<path fill="none" stroke="#000000" d="M640.7538,-380.0174C627.1839,-369.4085 612.0433,-357.5717 599.0886,-347.4437"/>
+<polygon fill="#000000" stroke="#000000" points="600.9635,-344.4668 590.9297,-341.0651 596.6521,-349.9816 600.9635,-344.4668"/>
+</g>
+<!-- Faire. -->
+<g id="node34" class="node">
+<title>Faire.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="825.7015" cy="-331.9508" rx="33.0832" ry="33.0832"/>
+<text text-anchor="middle" x="825.7015" y="-327.7508" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Faire.</text>
+</g>
+<!-- Corporel.&#45;&gt;Faire. -->
+<g id="edge33" class="edge">
+<title>Corporel.-&gt;Faire.</title>
+<path fill="none" stroke="#000000" d="M721.1169,-387.1203C741.8736,-376.1709 766.6612,-363.0952 786.8939,-352.4222"/>
+<polygon fill="#000000" stroke="#000000" points="788.6268,-355.4652 795.8386,-347.7037 785.3608,-349.2739 788.6268,-355.4652"/>
+</g>
+<!-- Perception. -->
+<g id="node11" class="node">
+<title>Perception.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="819.7489" cy="-747.4969" rx="54.9946" ry="54.9946"/>
+<text text-anchor="middle" x="819.7489" y="-743.2969" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Perception.</text>
+</g>
+<!-- Inspire.&#45;&gt;Perception. -->
+<g id="edge10" class="edge">
+<title>Inspire.-&gt;Perception.</title>
+<path fill="none" stroke="#000000" d="M707.6049,-681.3266C724.3132,-691.1853 744.7485,-703.2431 763.576,-714.3522"/>
+<polygon fill="#000000" stroke="#000000" points="761.9879,-717.479 772.3791,-719.5464 765.5452,-711.4502 761.9879,-717.479"/>
+</g>
+<!-- Empathie. -->
+<g id="node12" class="node">
+<title>Empathie.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="797.6453" cy="-917.8927" rx="50.4201" ry="50.4201"/>
+<text text-anchor="middle" x="797.6453" y="-913.6927" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Empathie.</text>
+</g>
+<!-- Inspire.&#45;&gt;Empathie. -->
+<g id="edge11" class="edge">
+<title>Inspire.-&gt;Empathie.</title>
+<path fill="none" stroke="#000000" d="M690.4001,-697.068C711.4121,-740.333 746.7347,-813.0647 771.0665,-863.1652"/>
+<polygon fill="#000000" stroke="#000000" points="767.9589,-864.7783 775.4759,-872.2445 774.2556,-861.7202 767.9589,-864.7783"/>
+</g>
+<!-- Intuition. -->
+<g id="node13" class="node">
+<title>Intuition.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="659.3499" cy="-808.6791" rx="46.9292" ry="46.9292"/>
+<text text-anchor="middle" x="659.3499" y="-804.4791" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Intuition.</text>
+</g>
+<!-- Inspire.&#45;&gt;Intuition. -->
+<g id="edge12" class="edge">
+<title>Inspire.-&gt;Intuition.</title>
+<path fill="none" stroke="#000000" d="M669.1057,-701.1901C667.6914,-716.7728 666.0484,-734.8758 664.5184,-751.7325"/>
+<polygon fill="#000000" stroke="#000000" points="661.0018,-751.758 663.5835,-762.0334 667.9732,-752.3908 661.0018,-751.758"/>
+</g>
+<!-- Intellect. -->
+<g id="node17" class="node">
+<title>Intellect.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="527.5049" cy="-892.0101" rx="45.1778" ry="45.1778"/>
+<text text-anchor="middle" x="527.5049" y="-887.8101" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Intellect.</text>
+</g>
+<!-- Intérieur.&#45;&gt;Intellect. -->
+<g id="edge16" class="edge">
+<title>Intérieur.-&gt;Intellect.</title>
+<path fill="none" stroke="#000000" d="M537.2587,-756.735C535.4952,-781.1926 533.336,-811.1389 531.4978,-836.6329"/>
+<polygon fill="#000000" stroke="#000000" points="527.9865,-836.665 530.7581,-846.8908 534.9683,-837.1684 527.9865,-836.665"/>
+</g>
+<!-- Contrôle. -->
+<g id="node18" class="node">
+<title>Contrôle.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="419.4145" cy="-779.0459" rx="48.0916" ry="48.0916"/>
+<text text-anchor="middle" x="419.4145" y="-774.8459" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Contrôle.</text>
+</g>
+<!-- Intérieur.&#45;&gt;Contrôle. -->
+<g id="edge17" class="edge">
+<title>Intérieur.-&gt;Contrôle.</title>
+<path fill="none" stroke="#000000" d="M499.6303,-732.8297C490.1604,-738.2857 479.9769,-744.153 470.1499,-749.8148"/>
+<polygon fill="#000000" stroke="#000000" points="468.1735,-746.9141 461.256,-754.939 471.6681,-752.9794 468.1735,-746.9141"/>
+</g>
+<!-- Santé Mentale. -->
+<g id="node19" class="node">
+<title>Santé Mentale.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="282.9683" cy="-864.1936" rx="69.7487" ry="69.7487"/>
+<text text-anchor="middle" x="282.9683" y="-859.9936" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Santé Mentale.</text>
+</g>
+<!-- Intérieur.&#45;&gt;Santé Mentale. -->
+<g id="edge18" class="edge">
+<title>Intérieur.-&gt;Santé Mentale.</title>
+<path fill="none" stroke="#000000" d="M515.0411,-749.2779C499.6012,-770.8568 478.3246,-796.5919 454.4013,-814.2684 427.63,-834.0494 393.1556,-846.0198 362.1503,-853.2518"/>
+<polygon fill="#000000" stroke="#000000" points="361.2337,-849.8696 352.2197,-855.4372 362.7383,-856.706 361.2337,-849.8696"/>
+</g>
+<!-- Volonté. -->
+<g id="node22" class="node">
+<title>Volonté.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="93.9346" cy="-1027.319" rx="45.455" ry="45.455"/>
+<text text-anchor="middle" x="93.9346" y="-1023.119" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Volonté.</text>
+</g>
+<!-- Expire.&#45;&gt;Volonté. -->
+<g id="edge21" class="edge">
+<title>Expire.-&gt;Volonté.</title>
+<path fill="none" stroke="#000000" d="M379.0385,-651.2597C333.7609,-700.574 245.5711,-796.9835 232.6627,-813.773 190.94,-868.0401 148.9393,-934.7796 122.2592,-979.0535"/>
+<polygon fill="#000000" stroke="#000000" points="119.1115,-977.497 116.9682,-987.8728 125.1141,-981.0982 119.1115,-977.497"/>
+</g>
+<!-- Hargne. -->
+<g id="node23" class="node">
+<title>Hargne.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="55.5063" cy="-801.5853" rx="41.735" ry="41.735"/>
+<text text-anchor="middle" x="55.5063" y="-797.3853" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Hargne.</text>
+</g>
+<!-- Expire.&#45;&gt;Hargne. -->
+<g id="edge22" class="edge">
+<title>Expire.-&gt;Hargne.</title>
+<path fill="none" stroke="#000000" d="M382.4894,-654.2283C363.6223,-678.3359 335.1508,-710.798 304.1782,-732.3035 244.5212,-773.7257 160.744,-790.468 107.2904,-797.1776"/>
+<polygon fill="#000000" stroke="#000000" points="106.8673,-793.7032 97.3477,-798.3538 107.6897,-800.6547 106.8673,-793.7032"/>
+</g>
+<!-- Discrétion. -->
+<g id="node24" class="node">
+<title>Discrétion.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="264.8015" cy="-692.5711" rx="54.1789" ry="54.1789"/>
+<text text-anchor="middle" x="264.8015" y="-688.3711" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Discrétion.</text>
+</g>
+<!-- Expire.&#45;&gt;Discrétion. -->
+<g id="edge23" class="edge">
+<title>Expire.-&gt;Discrétion.</title>
+<path fill="none" stroke="#000000" d="M370.5443,-639.787C356.1625,-646.966 339.1403,-655.463 323.0037,-663.518"/>
+<polygon fill="#000000" stroke="#000000" points="321.0157,-660.5985 313.6317,-668.1963 324.1421,-666.8615 321.0157,-660.5985"/>
+</g>
+<!-- Sociabilité. -->
+<g id="node25" class="node">
+<title>Sociabilité.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="265.8502" cy="-532.6779" rx="55.3398" ry="55.3398"/>
+<text text-anchor="middle" x="265.8502" y="-528.4779" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Sociabilité.</text>
+</g>
+<!-- Extérieur.&#45;&gt;Sociabilité. -->
+<g id="edge24" class="edge">
+<title>Extérieur.-&gt;Sociabilité.</title>
+<path fill="none" stroke="#000000" d="M360.7249,-491.9043C349.802,-496.5985 337.9913,-501.6743 326.5343,-506.5981"/>
+<polygon fill="#000000" stroke="#000000" points="324.8263,-503.5225 317.0208,-510.6866 327.5903,-509.9538 324.8263,-503.5225"/>
+</g>
+<!-- Connaissance. -->
+<g id="node26" class="node">
+<title>Connaissance.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="265.279" cy="-369.9237" rx="66.5931" ry="66.5931"/>
+<text text-anchor="middle" x="265.279" y="-365.7237" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Connaissance.</text>
+</g>
+<!-- Extérieur.&#45;&gt;Connaissance. -->
+<g id="edge25" class="edge">
+<title>Extérieur.-&gt;Connaissance.</title>
+<path fill="none" stroke="#000000" d="M365.9477,-442.5134C354.0183,-433.9114 340.7055,-424.3119 327.7687,-414.9835"/>
+<polygon fill="#000000" stroke="#000000" points="329.4983,-411.9156 319.34,-408.9057 325.4041,-417.5935 329.4983,-411.9156"/>
+</g>
+<!-- Charisme. -->
+<g id="node27" class="node">
+<title>Charisme.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="406.1652" cy="-324.8898" rx="50.4181" ry="50.4181"/>
+<text text-anchor="middle" x="406.1652" y="-320.6898" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Charisme.</text>
+</g>
+<!-- Extérieur.&#45;&gt;Charisme. -->
+<g id="edge26" class="edge">
+<title>Extérieur.-&gt;Charisme.</title>
+<path fill="none" stroke="#000000" d="M406.6588,-421.8198C406.5992,-410.1105 406.5351,-397.5212 406.4734,-385.4186"/>
+<polygon fill="#000000" stroke="#000000" points="409.9734,-385.3789 406.4224,-375.3969 402.9735,-385.4146 409.9734,-385.3789"/>
+</g>
+<!-- Vue. -->
+<g id="node14" class="node">
+<title>Vue.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="1032.3801" cy="-681.8079" rx="29.5746" ry="29.5746"/>
+<text text-anchor="middle" x="1032.3801" y="-677.6079" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Vue.</text>
+</g>
+<!-- Perception.&#45;&gt;Vue. -->
+<g id="edge13" class="edge">
+<title>Perception.-&gt;Vue.</title>
+<path fill="none" stroke="#000000" d="M872.3095,-731.2592C910.1424,-719.5713 960.2998,-704.076 994.3132,-693.5681"/>
+<polygon fill="#000000" stroke="#000000" points="995.3652,-696.9064 1003.8865,-690.6106 993.2989,-690.2183 995.3652,-696.9064"/>
+</g>
+<!-- Ouïe. -->
+<g id="node15" class="node">
+<title>Ouïe.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="1036.0547" cy="-839.7405" rx="38.2411" ry="38.2411"/>
+<text text-anchor="middle" x="1036.0547" y="-835.5405" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Ouïe.</text>
+</g>
+<!-- Perception.&#45;&gt;Ouïe. -->
+<g id="edge14" class="edge">
+<title>Perception.-&gt;Ouïe.</title>
+<path fill="none" stroke="#000000" d="M870.19,-769.0075C906.819,-784.628 955.938,-805.5748 991.2022,-820.6132"/>
+<polygon fill="#000000" stroke="#000000" points="990.1877,-823.9855 1000.7592,-824.6888 992.9336,-817.5465 990.1877,-823.9855"/>
+</g>
+<!-- Odorat. -->
+<g id="node16" class="node">
+<title>Odorat.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="992.6599" cy="-1042.4583" rx="40.0298" ry="40.0298"/>
+<text text-anchor="middle" x="992.6599" y="-1038.2583" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Odorat.</text>
+</g>
+<!-- Perception.&#45;&gt;Odorat. -->
+<g id="edge15" class="edge">
+<title>Perception.-&gt;Odorat.</title>
+<path fill="none" stroke="#000000" d="M847.5301,-794.8876C880.5372,-851.193 935.1481,-944.3513 967.1327,-998.9125"/>
+<polygon fill="#000000" stroke="#000000" points="964.1797,-1000.796 972.2565,-1007.6529 970.2186,-997.2559 964.1797,-1000.796"/>
+</g>
+<!-- Langage. -->
+<g id="node20" class="node">
+<title>Langage.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="658.6033" cy="-1050.7188" rx="46.8923" ry="46.8923"/>
+<text text-anchor="middle" x="658.6033" y="-1046.5188" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Langage.</text>
+</g>
+<!-- Intellect.&#45;&gt;Langage. -->
+<g id="edge19" class="edge">
+<title>Intellect.-&gt;Langage.</title>
+<path fill="none" stroke="#000000" d="M556.275,-926.8394C575.6585,-950.3052 601.3861,-981.4513 622.1946,-1006.6421"/>
+<polygon fill="#000000" stroke="#000000" points="619.6964,-1009.1136 628.7634,-1014.5945 625.0933,-1004.6556 619.6964,-1009.1136"/>
+</g>
+<!-- Logique. -->
+<g id="node21" class="node">
+<title>Logique.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="392.1583" cy="-1042.8897" rx="45.7693" ry="45.7693"/>
+<text text-anchor="middle" x="392.1583" y="-1038.6897" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Logique.</text>
+</g>
+<!-- Intellect.&#45;&gt;Logique. -->
+<g id="edge20" class="edge">
+<title>Intellect.-&gt;Logique.</title>
+<path fill="none" stroke="#000000" d="M497.1305,-925.8704C477.0871,-948.214 450.6955,-977.6345 429.3895,-1001.3856"/>
+<polygon fill="#000000" stroke="#000000" points="426.7373,-999.1006 422.6652,-1008.8817 431.9481,-1003.7749 426.7373,-999.1006"/>
+</g>
+<!-- Technique. -->
+<g id="node28" class="node">
+<title>Technique.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="58.9794" cy="-622.1351" rx="54.4166" ry="54.4166"/>
+<text text-anchor="middle" x="58.9794" y="-617.9351" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Technique.</text>
+</g>
+<!-- Connaissance.&#45;&gt;Technique. -->
+<g id="edge27" class="edge">
+<title>Connaissance.-&gt;Technique.</title>
+<path fill="none" stroke="#000000" d="M223.0334,-421.571C186.9665,-465.6646 135.4223,-528.6799 99.7776,-572.2573"/>
+<polygon fill="#000000" stroke="#000000" points="96.9366,-570.2026 93.3143,-580.159 102.3549,-574.6346 96.9366,-570.2026"/>
+</g>
+<!-- Histoire. -->
+<g id="node29" class="node">
+<title>Histoire.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="60.011" cy="-462.783" rx="44.6174" ry="44.6174"/>
+<text text-anchor="middle" x="60.011" y="-458.583" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Histoire.</text>
+</g>
+<!-- Connaissance.&#45;&gt;Histoire. -->
+<g id="edge28" class="edge">
+<title>Connaissance.-&gt;Histoire.</title>
+<path fill="none" stroke="#000000" d="M204.525,-397.4076C174.4667,-411.0054 138.6237,-427.2201 110.154,-440.0993"/>
+<polygon fill="#000000" stroke="#000000" points="108.4692,-437.0199 100.8007,-444.3305 111.3544,-443.3977 108.4692,-437.0199"/>
+</g>
+<!-- Géographie. -->
+<g id="node30" class="node">
+<title>Géographie.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="59.16" cy="-292.1158" rx="59.3204" ry="59.3204"/>
+<text text-anchor="middle" x="59.16" y="-287.9158" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Géographie.</text>
+</g>
+<!-- Connaissance.&#45;&gt;Géographie. -->
+<g id="edge29" class="edge">
+<title>Connaissance.-&gt;Géographie.</title>
+<path fill="none" stroke="#000000" d="M202.8772,-346.3676C177.9765,-336.9679 149.3046,-326.1445 124.1524,-316.6498"/>
+<polygon fill="#000000" stroke="#000000" points="125.2918,-313.3389 114.7001,-313.0817 122.8196,-319.8879 125.2918,-313.3389"/>
+</g>
+<!-- Politique. -->
+<g id="node31" class="node">
+<title>Politique.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="79.6074" cy="-66.1835" rx="48.1523" ry="48.1523"/>
+<text text-anchor="middle" x="79.6074" y="-61.9835" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Politique.</text>
+</g>
+<!-- Connaissance.&#45;&gt;Politique. -->
+<g id="edge30" class="edge">
+<title>Connaissance.-&gt;Politique.</title>
+<path fill="none" stroke="#000000" d="M230.3556,-312.7925C195.7267,-256.1431 143.1986,-170.2123 110.1747,-116.1886"/>
+<polygon fill="#000000" stroke="#000000" points="113.0491,-114.18 104.8472,-107.4733 107.0766,-117.8309 113.0491,-114.18"/>
+</g>
+<!-- Langues. -->
+<g id="node32" class="node">
+<title>Langues.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="275.1848" cy="-187.8178" rx="46.3298" ry="46.3298"/>
+<text text-anchor="middle" x="275.1848" y="-183.6178" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Langues.</text>
+</g>
+<!-- Connaissance.&#45;&gt;Langues. -->
+<g id="edge31" class="edge">
+<title>Connaissance.-&gt;Langues.</title>
+<path fill="none" stroke="#000000" d="M268.8973,-303.4063C269.9558,-283.946 271.1023,-262.8699 272.1227,-244.1102"/>
+<polygon fill="#000000" stroke="#000000" points="275.6269,-244.1268 272.6753,-233.9515 268.6372,-243.7466 275.6269,-244.1268"/>
+</g>
+<!-- Force. -->
+<g id="node35" class="node">
+<title>Force.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="375.5438" cy="-40.298" rx="35.3716" ry="35.3716"/>
+<text text-anchor="middle" x="375.5438" y="-36.098" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Force.</text>
+</g>
+<!-- Être.&#45;&gt;Force. -->
+<g id="edge34" class="edge">
+<title>Être.-&gt;Force.</title>
+<path fill="none" stroke="#000000" d="M563.4449,-293.903C557.8522,-263.8513 545.9492,-216.6117 522.5965,-182.1968 491.8361,-136.8654 444.6822,-94.5935 412.1027,-68.183"/>
+<polygon fill="#000000" stroke="#000000" points="414.1465,-65.3357 404.1526,-61.818 409.7715,-70.8002 414.1465,-65.3357"/>
+</g>
+<!-- Souplesse. -->
+<g id="node36" class="node">
+<title>Souplesse.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="484.51" cy="-220.0146" rx="52.1456" ry="52.1456"/>
+<text text-anchor="middle" x="484.51" y="-215.8146" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Souplesse.</text>
+</g>
+<!-- Être.&#45;&gt;Souplesse. -->
+<g id="edge35" class="edge">
+<title>Être.-&gt;Souplesse.</title>
+<path fill="none" stroke="#000000" d="M549.3235,-300.1369C541.7638,-290.7916 532.7113,-279.6009 523.803,-268.5886"/>
+<polygon fill="#000000" stroke="#000000" points="526.3757,-266.2038 517.3653,-260.6303 520.9334,-270.6063 526.3757,-266.2038"/>
+</g>
+<!-- Constitution. -->
+<g id="node37" class="node">
+<title>Constitution.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="559.7813" cy="-67.1731" rx="61.4152" ry="61.4152"/>
+<text text-anchor="middle" x="559.7813" y="-62.9731" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Constitution.</text>
+</g>
+<!-- Être.&#45;&gt;Constitution. -->
+<g id="edge36" class="edge">
+<title>Être.-&gt;Constitution.</title>
+<path fill="none" stroke="#000000" d="M566.8895,-293.6451C565.7098,-256.0571 563.6256,-189.6553 562.0181,-138.4377"/>
+<polygon fill="#000000" stroke="#000000" points="565.5154,-138.2949 561.7033,-128.4097 558.5188,-138.5146 565.5154,-138.2949"/>
+</g>
+<!-- Réflexe. -->
+<g id="node38" class="node">
+<title>Réflexe.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="713.6038" cy="-44.1434" rx="44.2873" ry="44.2873"/>
+<text text-anchor="middle" x="713.6038" y="-39.9434" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Réflexe.</text>
+</g>
+<!-- Être.&#45;&gt;Réflexe. -->
+<g id="edge37" class="edge">
+<title>Être.-&gt;Réflexe.</title>
+<path fill="none" stroke="#000000" d="M581.3955,-297.0078C605.7529,-250.4214 657.2038,-152.0153 688.2498,-92.6361"/>
+<polygon fill="#000000" stroke="#000000" points="691.5183,-93.9386 693.05,-83.4551 685.315,-90.6952 691.5183,-93.9386"/>
+</g>
+<!-- Endurance. -->
+<g id="node39" class="node">
+<title>Endurance.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="687.097" cy="-251.9635" rx="54.9791" ry="54.9791"/>
+<text text-anchor="middle" x="687.097" y="-247.7635" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Endurance.</text>
+</g>
+<!-- Être.&#45;&gt;Endurance. -->
+<g id="edge38" class="edge">
+<title>Être.-&gt;Endurance.</title>
+<path fill="none" stroke="#000000" d="M593.1082,-307.9276C604.2161,-301.3136 617.7351,-293.2639 631.0175,-285.3551"/>
+<polygon fill="#000000" stroke="#000000" points="632.8825,-288.3181 639.6841,-280.1947 629.3012,-282.3036 632.8825,-288.3181"/>
+</g>
+<!-- Combat Rapproché. -->
+<g id="node40" class="node">
+<title>Combat Rapproché.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="839.8279" cy="-122.9668" rx="88.8782" ry="88.8782"/>
+<text text-anchor="middle" x="839.8279" y="-118.7668" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Combat Rapproché.</text>
+</g>
+<!-- Faire.&#45;&gt;Combat Rapproché. -->
+<g id="edge39" class="edge">
+<title>Faire.-&gt;Combat Rapproché.</title>
+<path fill="none" stroke="#000000" d="M827.9711,-298.3739C829.3812,-277.5134 831.2739,-249.5134 833.1325,-222.0171"/>
+<polygon fill="#000000" stroke="#000000" points="836.6323,-222.1372 833.8148,-211.9239 829.6482,-221.665 836.6323,-222.1372"/>
+</g>
+<!-- Tir Visé. -->
+<g id="node41" class="node">
+<title>Tir Visé.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="1030.3698" cy="-64.6064" rx="46.0511" ry="46.0511"/>
+<text text-anchor="middle" x="1030.3698" y="-60.4064" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Tir Visé.</text>
+</g>
+<!-- Faire.&#45;&gt;Tir Visé. -->
+<g id="edge40" class="edge">
+<title>Faire.-&gt;Tir Visé.</title>
+<path fill="none" stroke="#000000" d="M846.0741,-305.3394C881.1531,-259.5181 953.3131,-165.2604 996.1942,-109.2477"/>
+<polygon fill="#000000" stroke="#000000" points="999.0009,-111.3392 1002.3006,-101.2713 993.4426,-107.084 999.0009,-111.3392"/>
+</g>
+<!-- Dextérité. -->
+<g id="node42" class="node">
+<title>Dextérité.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="1029.516" cy="-274.4994" rx="50.9153" ry="50.9153"/>
+<text text-anchor="middle" x="1029.516" y="-270.2994" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Dextérité.</text>
+</g>
+<!-- Faire.&#45;&gt;Dextérité. -->
+<g id="edge41" class="edge">
+<title>Faire.-&gt;Dextérité.</title>
+<path fill="none" stroke="#000000" d="M857.9965,-322.8474C888.161,-314.3446 933.9125,-301.4482 970.5786,-291.1127"/>
+<polygon fill="#000000" stroke="#000000" points="971.9835,-294.3532 980.6589,-288.2713 970.0843,-287.6157 971.9835,-294.3532"/>
+</g>
+<!-- Athlétisme. -->
+<g id="node43" class="node">
+<title>Athlétisme.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="1034.2136" cy="-421.1666" rx="56.4835" ry="56.4835"/>
+<text text-anchor="middle" x="1034.2136" y="-416.9666" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Athlétisme.</text>
+</g>
+<!-- Faire.&#45;&gt;Athlétisme. -->
+<g id="edge42" class="edge">
+<title>Faire.-&gt;Athlétisme.</title>
+<path fill="none" stroke="#000000" d="M856.4682,-345.1149C886.8582,-358.1178 934.1987,-378.3733 972.3839,-394.7116"/>
+<polygon fill="#000000" stroke="#000000" points="971.3083,-398.0583 981.8789,-398.7742 974.062,-391.6226 971.3083,-398.0583"/>
+</g>
+<!-- Agilité. -->
+<g id="node44" class="node">
+<title>Agilité.</title>
+<ellipse fill="none" stroke="#c0c0c0" cx="1028.5024" cy="-550.2126" rx="40.8747" ry="40.8747"/>
+<text text-anchor="middle" x="1028.5024" y="-546.0126" font-family="Segoe UI, Roboto, Arial" font-size="14.00" fill="#000000">Agilité.</text>
+</g>
+<!-- Faire.&#45;&gt;Agilité. -->
+<g id="edge43" class="edge">
+<title>Faire.-&gt;Agilité.</title>
+<path fill="none" stroke="#000000" d="M848.5711,-356.5639C883.9217,-394.6095 952.0826,-467.9669 993.6121,-512.6624"/>
+<polygon fill="#000000" stroke="#000000" points="991.1699,-515.1759 1000.5408,-520.1193 996.2979,-510.4111 991.1699,-515.1759"/>
+</g>
+</g>
+</svg>
