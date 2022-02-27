@@ -2,7 +2,7 @@
 <svg width="1086pt" height="931pt" viewbox="0.00 0.00 1085.90 930.64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 926.6393)"> 
     <title>perso</title>
     <polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-926.6393 1081.9021,-926.6393 1081.9021,4 -4,4"></polygon> <!-- Equilibre --> <g id="node1" class="node"> 
-    <title>Equilibre</title>
+    <title>Equilibre.</title>
     <ellipse fill="none" stroke="#000000" cx="538.207" cy="-384.6207" rx="46.9477" ry="18"></ellipse> <text text-anchor="middle" x="538.207" y="-380.4207" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Equilibre</text> </g> <!-- Destin. --> <g id="node2" class="node"> 
     <title>Destin.</title>
     <ellipse fill="none" stroke="#000000" cx="641.6564" cy="-466.164" rx="38.8211" ry="18"></ellipse> <text text-anchor="middle" x="641.6564" y="-461.964" font-family="Roboto, Sans" font-size="14.00" fill="#000000">Destin.</text> </g> <!-- Equilibre&#45;&gt;Destin. --> <g id="edge1" class="edge"> 
